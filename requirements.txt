@@ -1,0 +1,7 @@
+keyboard
+pyautogui
+pywin32
+beautifulsoup4
+pygame
+requests
+playsound
