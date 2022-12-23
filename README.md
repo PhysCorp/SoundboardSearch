@@ -1,7 +1,8 @@
 # SoundboardSearch
 A simple soundboard utility that you can invoke with WIN + SPACE to instantly play sounds from MyInstants.com!
+(This was purely made for fun, in 30 mins)
 
-## Installation (Better instructions coming soon)
+## Installation
 1) Grab the stable copy at https://github.com/PhysCorp/SoundboardSearch/releases/download/stable/SoundboardSearch.zip
 2) Unzip the file to a folder of your choosing
 
